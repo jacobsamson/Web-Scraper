@@ -1,14 +1,13 @@
 const axios = require('axios');
 const cheerio = require('cheerio');
 const express = require('express');
+const app = express()
+const cors = require('cors')
+app.use(cors())
 
 const PORT = 8000
 
-const app = express()
-
 const url = 'https://www.youngla.com/collections/t-shirts/For-Him'
-
-// app.METHOD(PATH, HANDLER)
 
 app.get('/', function(req, res) {
     res.json('this is my webscrapper')
