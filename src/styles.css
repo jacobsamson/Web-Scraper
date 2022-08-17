@@ -3,6 +3,7 @@ h1{
     margin-bottom: 2em;
     text-align: center;
     font-family: 'Rubik', sans-serif;
+    color: #565656;
 }
 
 h2{
@@ -10,15 +11,21 @@ h2{
     margin-bottom: 2em;
     text-align: center;
     font-family: 'Rubik', sans-serif;
+    color: #565656;
 }
 
 h3{
     font-size: 2rem;
     font-family: 'Rubik', sans-serif;
+    color: #76323F;
+    text-indent: 50px;
 }
 
 p{
     font-size: 1.5rem;
     font-family: 'Rubik', sans-serif;
     margin-bottom: 3em;
+    color: #565656;
+    text-indent: 75px;
 }
+
