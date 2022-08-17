@@ -1,0 +1,24 @@
+h1{
+    font-size: 4rem;
+    margin-bottom: 2em;
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+}
+
+h2{
+    font-size: 3rem;
+    margin-bottom: 2em;
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+}
+
+h3{
+    font-size: 2rem;
+    font-family: 'Rubik', sans-serif;
+}
+
+p{
+    font-size: 1.5rem;
+    font-family: 'Rubik', sans-serif;
+    margin-bottom: 3em;
+}
